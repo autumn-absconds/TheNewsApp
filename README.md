@@ -27,13 +27,13 @@ To run this project locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/autumn-absconds/The-News-App---Development-Grade-API.git
+   git clone https://github.com/autumn-absconds/TheNewsApp.git
    ```
 
 2. Change into the project directory:
 
    ```bash
-   cd The-News-App---Development-Grade-API
+   cd TheNewsApp
    ```
 
 3. Install dependencies:
